@@ -20,7 +20,7 @@ Aquí encontrarás una selección de proyectos en los que he estado trabajando:
 - [LunarNodes](https://www.lunarnodes.art): Esta es la página web oficial de mi hosting LunarNodes, desarrollada por mi.
 - [AquaticNetwork](https://www.aquaticnet.xyz): Esta es la página web de mi servidor de minecraft, tambien desarrollada por mi
 
-### Paneles Pterodactyl
+### Paneles de Servidores de juegos
 
 - [LunarNodes Game Panel](https://panel.lunarnodes.art): Este es el panel de mi hosting LunarNodes.
 
