@@ -17,12 +17,12 @@ Aquí encontrarás una selección de proyectos en los que he estado trabajando:
 
 ### Páginas Web
 
-- [TinVox Hosting / Studios](https://www.voxelhosting.online): Esta es la página web oficial de mi hosting LunarNodes, desarrollada por mi.
+- [TinVox Hosting / Studios](https://www.tinvox.site): Esta es la página web oficial de mi hosting LunarNodes, desarrollada por mi.
 - [AquaticNetwork](https://www.aquaticnet.xyz): Esta es la página web de mi servidor de minecraft, tambien desarrollada por mi
 
 ### Paneles de Servidores de juegos
 
-- [TinVox Game Panel](https://manage.voxelhosting.online): Este es el panel de mi hosting LunarNodes.
+- [TinVox Game Panel](https://panel.tinvox.site): Este es el panel de mi hosting LunarNodes.
 
 ## Contacto
 
