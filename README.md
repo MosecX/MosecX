@@ -4,6 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosecX&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="MosecX's GitHub Stats" />
 <p align="center">
   <a href="https://discord.com/users/951125693549404221">
-     <img src="https://discord.c99.nl/widget/theme-2/951125693549404221" alt="Mosec#8442 ( 951125693549404221 )"/>
+     <img src="https://discord.c99.nl/widget/theme-2/951125693549404221.png" alt="Mosec#8442 ( 951125693549404221 )"/>
        </a>
 </p>
